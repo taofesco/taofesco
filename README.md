@@ -13,7 +13,7 @@ I love both robotics and programming. Most of my works are hardware and software
 - 🔭 I’m currently working on Mobile App
 - 🌱 I’m currently learning TensorFlow | OpenCV | ROS2
 - 👯 I’m looking to collaborate on any open source project <!-- - 🤔 I’m looking for help with -->
-- 💬 Ask me about Robotics | MCU | Hardware | IoT | Android | Flutter | React Native
+- 💬 Ask me about Robotics | MCU | Hardware | IoT | Linux | Flutter | React Native
 - 📫 How to reach me: [Github](https://github.com/taofesco), [Linkedin](https://linkedin.com/in/taofesco), [Facebook](https://facebook.com/taofesco)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CTRL+C, CTRL+V

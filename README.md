@@ -8,12 +8,12 @@
 
 ### :man_technologist: About Me :
   
-I love both electronics and programming. Most of my works are hardware and software combination. I’ve done many Hardware-based projects & developed some Android application. I also work with Embedded system, IoT, Robotics and industrial automation. I like writing, sharing my knowledge with others freak guy. 😎
+I love both robotics and programming. Most of my works are hardware and software combination. I’ve done many Hardware-based projects & developed some mobile application. I also work with Embedded system, IoT, Robotics and industrial automation. I like writing, sharing my knowledge with others freak guy. 😎
 
 - 🔭 I’m currently working on Mobile App
-- 🌱 I’m currently learning TensorFlow | OpenCV | Python
+- 🌱 I’m currently learning TensorFlow | OpenCV | ROS2
 - 👯 I’m looking to collaborate on any open source project <!-- - 🤔 I’m looking for help with -->
-- 💬 Ask me about MCU | Hardware | IoT | Android | Flutter | React Native
+- 💬 Ask me about Robotics | MCU | Hardware | IoT | Android | Flutter | React Native
 - 📫 How to reach me: [Github](https://github.com/taofesco), [Linkedin](https://linkedin.com/in/taofesco), [Facebook](https://facebook.com/taofesco)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CTRL+C, CTRL+V
@@ -26,13 +26,10 @@ I love both electronics and programming. Most of my works are hardware and softw
 
 --- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taofesco&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taofesco&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taofesco&theme=tokyonight)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taofesco&theme=tokyonight)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taofesco&theme=tokyonight)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taofesco&theme=tokyonight)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taofesco&theme=tokyonight&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taofesco&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taofesco&theme=tokyonight&utcOffset=8)
   
 
